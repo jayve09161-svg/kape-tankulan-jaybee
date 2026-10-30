@@ -1,7 +1,7 @@
 body{
-    background-image: url(./images/pic3.jpg);
+    background-color: blueviolet;
 }
-#HeadM{
+.HeadM{
     display: grid;
     place-items: center;
     font-size: 500;
@@ -16,10 +16,10 @@ body{
         display: grid;
     place-items: center;
     border: 20px;
-    color: blueviolet;
+    color: black;
     
 }
-.sub{
+.tagline{
     display: grid;
     place-items: center;
 }
